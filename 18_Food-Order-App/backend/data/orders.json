@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "items": [
+      {
+        "id": "m1",
+        "name": "Mac & Cheese",
+        "price": "8.99",
+        "description": "Creamy cheddar cheese mixed with perfectly cooked macaroni, topped with crispy breadcrumbs. A classic comfort food.",
+        "image": "images/mac-and-cheese.jpg",
+        "quantity": 2
+      },
+      {
+        "id": "m5",
+        "name": "Veggie Burger",
+        "price": "9.99",
+        "description": "A juicy veggie patty served on a whole grain bun with lettuce, tomato, and a tangy sauce.",
+        "image": "images/veggie-burger.jpg",
+        "quantity": 1
+      }
+    ],
+    "customer": {
+      "name": "Jane Doe",
+      "email": "jane.doe@gmail.com",
+      "street": "123 Main St",
+      "postal-code": "12345",
+      "city": "Albany"
+    },
+    "id": "17.562316491975814"
+  }
+]
